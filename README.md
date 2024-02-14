@@ -185,6 +185,6 @@ for i in range(len(model)):
 - https://computersciencedatascience.blogspot.com/
 
 PLEASE CLICK bellow link or .ipynb file to see original view of this project.
-
+https://github.com/Aatishkb/Breast-Cancer-Detection-By-KNN-Decsion-tree-Logistic-regression-Random-Forest-SVM-NBC/blob/main/Breast%20Cancer%20Detection%20(2).ipynb
 
 # Thank you!
