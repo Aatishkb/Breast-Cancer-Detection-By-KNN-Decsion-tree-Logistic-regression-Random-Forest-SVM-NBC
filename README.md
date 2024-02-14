@@ -184,4 +184,7 @@ for i in range(len(model)):
 ### My Blog
 - https://computersciencedatascience.blogspot.com/
 
+PLEASE CLICK bellow link or .ipynb file to see original view of this project.
+
+
 # Thank you!
